@@ -1,0 +1,5 @@
+01 newuser         FS 000000.00
+06 fullstd01       FS 000100.00
+03 Spiderman                  admin01         025.00
+04 Celeste                    sellstd01       admin01         020.00
+00 admin01         AA 004980.00

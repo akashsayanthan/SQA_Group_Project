@@ -1,0 +1,8 @@
+login
+fullstd01
+sell
+Celeste
+5.00
+addcredit
+abc
+logout

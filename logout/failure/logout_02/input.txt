@@ -1,0 +1,7 @@
+login
+fullstd01
+logout
+sell
+buy
+addcredit
+logout

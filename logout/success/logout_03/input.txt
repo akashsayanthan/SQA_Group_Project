@@ -1,0 +1,15 @@
+login
+admin01
+create
+newuser
+FS
+addcredit
+100
+fullstd01
+sell
+Spiderman
+25.00
+buy
+Celeste
+sellstd01
+logout

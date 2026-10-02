@@ -1,0 +1,6 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Logout successful.
+Enter transaction:

@@ -1,0 +1,14 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Enter game name:
+Error: a game named 'Celeste' already exists.
+Enter transaction:
+Error: '5.00' is not a valid transaction.
+Enter transaction:
+Enter amount:
+Error: invalid amount.
+Enter transaction:
+Logout successful.
+Enter transaction:
