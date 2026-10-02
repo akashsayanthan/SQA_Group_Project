@@ -1,0 +1,5 @@
+login
+fullstd01
+addcredit
+100.00
+logout

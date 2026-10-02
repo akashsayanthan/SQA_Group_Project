@@ -1,0 +1,5 @@
+login
+fullstd01
+addcredit
+abc
+logout

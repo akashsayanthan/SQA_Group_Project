@@ -1,0 +1,5 @@
+login
+buystd01
+addcredit
+50
+logout

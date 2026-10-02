@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, richuser.
+Enter transaction:
+Enter amount:
+Added $499.00 to richuser.
+Enter transaction:
+Logout successful.
+Enter transaction:

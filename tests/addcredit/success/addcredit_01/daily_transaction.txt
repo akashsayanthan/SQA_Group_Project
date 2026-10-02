@@ -1,0 +1,2 @@
+06 fullstd01       FS 000100.00
+00 fullstd01       FS 000600.00

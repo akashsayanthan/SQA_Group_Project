@@ -1,0 +1,2 @@
+06 richuser        FS 000499.00
+00 richuser        FS 999999.00

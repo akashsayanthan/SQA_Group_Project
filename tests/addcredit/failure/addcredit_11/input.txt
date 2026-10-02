@@ -1,0 +1,9 @@
+login
+admin01
+addcredit
+700
+fullstd01
+addcredit
+301
+fullstd01
+logout

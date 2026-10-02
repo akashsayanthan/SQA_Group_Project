@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Enter amount:
+Error: invalid amount.
+Enter transaction:
+Logout successful.
+Enter transaction:

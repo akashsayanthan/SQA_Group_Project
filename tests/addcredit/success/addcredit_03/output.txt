@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, sellstd01.
+Enter transaction:
+Enter amount:
+Added $25.50 to sellstd01.
+Enter transaction:
+Logout successful.
+Enter transaction:

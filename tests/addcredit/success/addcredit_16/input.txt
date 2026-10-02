@@ -1,0 +1,5 @@
+login
+richuser
+addcredit
+499.00
+logout

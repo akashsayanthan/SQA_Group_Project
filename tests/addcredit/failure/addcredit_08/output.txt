@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Enter amount:
+Error: a maximum of $1000.00 can be added to an account per session.
+Enter transaction:
+Logout successful.
+Enter transaction:

@@ -1,0 +1,6 @@
+login
+admin01
+addcredit
+200
+buystd01
+logout
