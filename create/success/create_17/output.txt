@@ -1,0 +1,10 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter new username:
+Enter user type (AA, FS, BS, SS):
+User 'newuser' created.
+Enter transaction:
+Logout successful.
+Enter transaction:

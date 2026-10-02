@@ -1,0 +1,6 @@
+login
+admin01
+create
+hsbkrbsmbhebchm
+FS
+logout

@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter new username:
+Error: username cannot be empty.
+Enter transaction:
+Logout successful.
+Enter transaction:

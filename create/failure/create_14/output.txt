@@ -1,0 +1,10 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter new username:
+Enter user type (AA, FS, BS, SS):
+Error: invalid user type.
+Enter transaction:
+Logout successful.
+Enter transaction:
