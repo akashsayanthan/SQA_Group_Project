@@ -1,0 +1,6 @@
+login
+admin01
+refund
+fullstd01
+fullstd01
+logout

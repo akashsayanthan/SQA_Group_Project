@@ -1,0 +1,11 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter buyer's username:
+Enter seller's username:
+Enter refund amount:
+Refunded $50.00 from seller2 to fullstd01.
+Enter transaction:
+Logout successful.
+Enter transaction:

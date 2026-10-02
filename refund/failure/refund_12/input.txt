@@ -1,0 +1,7 @@
+login
+admin01
+refund
+moneyman
+admin01
+999999999.99
+logout

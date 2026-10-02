@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter buyer's username:
+Error: user 'nouser' does not exist.
+Enter transaction:
+Logout successful.
+Enter transaction:
