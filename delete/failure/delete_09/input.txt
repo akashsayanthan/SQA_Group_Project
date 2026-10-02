@@ -1,0 +1,8 @@
+login
+admin01
+delete
+seller2
+refund
+fullstd01
+seller2
+logout

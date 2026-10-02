@@ -1,0 +1,8 @@
+login
+admin01
+delete
+buystd01
+addcredit
+10
+buystd01
+logout

@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter username to delete:
+User 'buystd01' deleted.
+Enter transaction:
+Logout successful.
+Enter transaction:

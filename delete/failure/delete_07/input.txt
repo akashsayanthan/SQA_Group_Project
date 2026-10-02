@@ -1,0 +1,7 @@
+login
+admin01
+delete
+seller2
+delete
+seller2
+logout

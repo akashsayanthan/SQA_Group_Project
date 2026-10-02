@@ -1,0 +1,12 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter username to delete:
+User 'seller2' deleted.
+Enter transaction:
+Enter username to delete:
+Error: user 'seller2' does not exist.
+Enter transaction:
+Logout successful.
+Enter transaction:

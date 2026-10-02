@@ -1,0 +1,4 @@
+login
+fullstd01
+delete
+logout

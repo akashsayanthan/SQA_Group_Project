@@ -1,0 +1,12 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter username to delete:
+User 'seller2' deleted.
+Enter transaction:
+Enter game name:
+Error: game 'Spiderman' is no longer available.
+Enter transaction:
+Logout successful.
+Enter transaction:
