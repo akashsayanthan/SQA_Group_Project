@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Enter game name:
+Error: a game named 'Celeste' already exists.
+Enter transaction:
+Logout successful.
+Enter transaction:

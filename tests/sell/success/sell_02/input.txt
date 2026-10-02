@@ -1,0 +1,6 @@
+login
+sellstd01
+sell
+Hades
+19.99
+logout

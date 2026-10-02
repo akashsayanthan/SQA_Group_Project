@@ -1,0 +1,2 @@
+03 Admin Game                 admin01         001.50
+00 admin01         AA 005000.00

@@ -1,0 +1,6 @@
+login
+fullstd01
+sell
+ABCDEFGHIJKLMNOPQRSTUVWXY
+10.00
+logout

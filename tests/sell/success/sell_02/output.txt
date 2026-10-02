@@ -1,0 +1,10 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, sellstd01.
+Enter transaction:
+Enter game name:
+Enter price:
+Game 'Hades' listed for sale at $19.99.
+Enter transaction:
+Logout successful.
+Enter transaction:

@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Enter game name:
+Error: game name must be at most 25 characters.
+Enter transaction:
+Logout successful.
+Enter transaction:

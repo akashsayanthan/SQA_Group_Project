@@ -1,0 +1,6 @@
+login
+admin01
+sell
+Admin Game
+1.50
+logout
