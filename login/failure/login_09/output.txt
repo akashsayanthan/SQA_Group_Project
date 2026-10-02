@@ -1,0 +1,8 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Error: a user is already logged in.
+Enter transaction:
+Logout successful.
+Enter transaction:

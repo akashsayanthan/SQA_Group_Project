@@ -1,0 +1,6 @@
+login
+fullstd01
+logout
+login
+admin01
+logout

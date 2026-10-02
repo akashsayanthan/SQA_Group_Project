@@ -1,0 +1,9 @@
+Enter transaction:
+Enter username:
+Error: user 'ghost' does not exist.
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Logout successful.
+Enter transaction:

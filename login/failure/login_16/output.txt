@@ -1,0 +1,8 @@
+Enter transaction:
+Error: you must log in first.
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Logout successful.
+Enter transaction:

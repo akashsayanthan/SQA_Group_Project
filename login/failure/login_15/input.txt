@@ -1,0 +1,4 @@
+addcredit
+login
+admin01
+logout
