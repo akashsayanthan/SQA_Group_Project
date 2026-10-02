@@ -1,0 +1,6 @@
+login
+buystd01
+buy
+Hollow Knight
+sellstd01
+logout

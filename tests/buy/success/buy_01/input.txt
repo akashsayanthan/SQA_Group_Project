@@ -1,0 +1,6 @@
+login
+fullstd01
+buy
+Celeste
+sellstd01
+logout

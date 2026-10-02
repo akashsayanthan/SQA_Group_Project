@@ -1,0 +1,8 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, sellstd01.
+Enter transaction:
+Error: permission denied.
+Enter transaction:
+Logout successful.
+Enter transaction:

@@ -1,0 +1,10 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, fullstd01.
+Enter transaction:
+Enter game name:
+Enter seller's username:
+Error: 'seller2' is not the seller of 'Celeste'.
+Enter transaction:
+Logout successful.
+Enter transaction:

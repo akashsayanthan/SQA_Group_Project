@@ -1,0 +1,10 @@
+Enter transaction:
+Enter username:
+Login successful. Welcome, admin01.
+Enter transaction:
+Enter game name:
+Enter seller's username:
+Purchased 'Stardew Valley' from seller2 for $10.00.
+Enter transaction:
+Logout successful.
+Enter transaction:

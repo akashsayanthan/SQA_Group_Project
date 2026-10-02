@@ -1,0 +1,6 @@
+login
+fullstd01
+buy
+Expensive Game
+fullstd01
+logout
