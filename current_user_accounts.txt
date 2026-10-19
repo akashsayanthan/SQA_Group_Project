@@ -1,0 +1,9 @@
+admin01         AA 005000.00
+admin02         AA 001000.00
+fullstd01       FS 000500.00
+buystd01        BS 000200.00
+sellstd01       SS 000100.00
+seller2         SS 000050.00
+poorbuyer       BS 000005.00
+richuser        FS 999500.00
+END                         

@@ -1,0 +1,3 @@
+Hollow Knight              fullstd01      
+Celeste                    buystd01       
+END                                       

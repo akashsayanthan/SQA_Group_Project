@@ -1,0 +1,8 @@
+login
+admin01
+create
+testuser
+BS
+delete
+testuser
+logout
