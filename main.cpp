@@ -5,7 +5,7 @@
  *
  * Usage: distribution <accounts> <games> <collection> <transaction_out>
  *   accounts         accounts input file
- *   games            games input file
+ *   games            games input file 
  *   collection       game collection input file
  *   transaction_out  file the transaction log is written to on logout
  *
